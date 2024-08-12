@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: DeBoX85/Debox85-readme@main
+        uses: DeBoX85/DeboX85-readme@main
         with:       
           CREDLY_USER: <denis-bogunic> # optional, but default will use the same from github
