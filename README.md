@@ -1,12 +1,15 @@
 # Hi and Welcome, I'm Denis
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
+<div id="header" align="center">
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/michaelmsonne/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/bogunic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bogunic" height="30" width="30" /></a>
 </p>
 
-<br />
+</div>
 
 
 <!--START_SECTION:badges-->
@@ -21,4 +24,10 @@
 <!--END_SECTION:badges-->
 
 
-You can take a look at my all of my Credly Badges hare [here](https://www.credly.com/users/denis-bogunic/badges)
+You can take a look at my all of my Credly Badges  [here](https://www.credly.com/users/denis-bogunic/badges)
+
+## Want to reach out or follow me?
+Feel free hit me up on my socials!
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogunic/)
+</br>
