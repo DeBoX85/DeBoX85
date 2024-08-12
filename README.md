@@ -9,7 +9,7 @@
 <br />
 
 
-To see all the other badges are [here](https://www.credly.com/users/denis-bogunic/badges)
+You can take a look at my Credly Badges hare [here](https://www.credly.com/users/denis-bogunic/badges)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
