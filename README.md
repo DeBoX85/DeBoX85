@@ -1,7 +1,7 @@
 # Hi and Welcome, I'm Denis
 <div id="header" align="center">
  <div id="badges">
-    <a href="https://www.linkedin.com/in/michaelmsonne/">
+    <a href="https://www.linkedin.com/in/bogunic/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
