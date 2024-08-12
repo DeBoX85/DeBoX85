@@ -16,6 +16,8 @@
 [![SIEM Influencer - 2024](https://images.credly.com/size/150x150/images/3250c29b-2d23-46af-86cd-2ffa12d3afad/image.png)](http://www.credly.com/badges/3f725b00-0ed8-42b6-882c-f130d485daba "SIEM Influencer - 2024")
 [![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/150x150/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b16f077f-b5ce-4989-9c73-f474fdbce70d "Microsoft Defender for Cloud Champion - 2024")
 [![Microsoft SIEM Champion - 2024](https://images.credly.com/size/150x150/images/9de0181b-fcef-4e3a-b961-4a71fc3c7d0a/image.png)](http://www.credly.com/badges/598fa02a-53d5-42ec-9469-0193fba2b10c "Microsoft SIEM Champion - 2024")
+[![Microsoft Defender XDR Champion - 2024](https://images.credly.com/size/150x150/images/eeb83d7c-c953-44d0-b297-5e017e15a086/image.png)](http://www.credly.com/badges/cb8e70cf-63c6-4dc2-ba62-260e85e7cc8a "Microsoft Defender XDR Champion - 2024")
+[![Microsoft Community Advocate - 2024](https://images.credly.com/size/150x150/images/46826bdd-8334-43f1-9785-f131af2d66f3/image.png)](http://www.credly.com/badges/4c2931e0-8319-4e06-b501-a9497c1bb631 "Microsoft Community Advocate - 2024")
 <!--END_SECTION:badges-->
 
 
