@@ -10,3 +10,6 @@
 
 
 To see all the other badges are [here](https://www.credly.com/users/denis-bogunic/badges)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
