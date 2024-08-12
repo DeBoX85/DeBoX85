@@ -4,8 +4,8 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "20 14 * * *"
-workflow_dispatch: # Enables manual triggering
-    
+  workflow_dispatch: # Enables manual triggering
+
 jobs:
   update-readme:
     name: Update Readme with badges
