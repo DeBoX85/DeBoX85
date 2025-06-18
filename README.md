@@ -2,7 +2,7 @@
 
 So, cloud engineering is my jam, especially when it involves Azure. I've been in the cloud game for over a decade, working on making cloud environments as slick, smooth and secure as possible. Around here, you might find some of my projects and ideas on how to keep cloud systems at their best. My GitHub is my little playground, it's where I share some of the stuff I've worked on and connect with fellow cloud enthusiasts. Feel free to poke around and let me know if anything piques your interest, always down for a good tech talk, a collaborative brainstorm or a wee bit of banter!
 
-Cheers!
+Cheers! :)
 
 
 <div id="header" align="center">
