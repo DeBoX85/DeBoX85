@@ -16,4 +16,4 @@ jobs:
           CREDLY_SORT: RECENT
           CREDLY_USER: denis-bogunic
           BADGE_SIZE: 190 # optional, 110x110 default
-          NUMBER_LAST_BADGES: 14 # optional, will show the 48 in the first page
+          NUMBER_LAST_BADGES: 18 # optional, will show the 48 in the first page
