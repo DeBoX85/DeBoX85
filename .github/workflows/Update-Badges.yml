@@ -13,6 +13,7 @@ jobs:
       - name: Badges - Readme
         uses: DeBoX85/badge-readme@main
         with:
+          COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_SORT: RECENT
           CREDLY_USER: denis-bogunic
           BADGE_SIZE: 190 # optional, 110x110 default
