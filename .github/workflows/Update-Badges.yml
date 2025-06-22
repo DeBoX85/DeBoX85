@@ -1,4 +1,4 @@
-name: Update badges
+name: "Update badges"
 
 on:
   workflow_dispatch: # run manually
@@ -7,7 +7,7 @@ on:
     - cron: '0 08 15 * *'
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: "Update Readme with badges"
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
@@ -16,5 +16,6 @@ jobs:
           COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_SORT: RECENT
           CREDLY_USER: denis-bogunic
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BADGE_SIZE: 190 # optional, 110x110 default
           NUMBER_LAST_BADGES: 18 # optional, will show the 48 in the first page
