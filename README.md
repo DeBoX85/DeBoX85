@@ -34,7 +34,7 @@ Cheers! :)
 <!--END_SECTION:badges-->
 
 
-You can take a look at my all of my Credly Badges  [here](https://www.credly.com/users/denis-bogunic/badges)
+You can take a look at all of my Credly Badges  [here](https://www.credly.com/users/denis-bogunic/badges)
 
 ## Want to reach out or follow me?
 Feel free hit me up on my socials!
