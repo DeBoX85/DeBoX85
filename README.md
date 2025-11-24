@@ -18,7 +18,7 @@ Cheers! :)
 </div>
 
 
-<!--START_SECTION:badges-->
+<!--START_BADGES:badges-->
 [![Microsoft Community Advocate - 2025](https://images.credly.com/size/150x150/images/cb565224-a2bd-40b6-b744-ffea40e0b008/blob)](http://www.credly.com/badges/989ca782-27d4-4361-8afd-8f9712bf49b2 "Microsoft Community Advocate - 2025")
 [![Microsoft Community Contributor - 2025](https://images.credly.com/size/150x150/images/96cd27f3-f113-4a4a-aa8c-5ca38bdb3edb/blob)](http://www.credly.com/badges/76a8fb29-fe77-487d-8ba3-a9d4bf6a7a11 "Microsoft Community Contributor - 2025")
 [![Microsoft Community Rockstar - 2024](https://images.credly.com/size/150x150/images/0f6a2315-7908-43e8-99c3-9bb5c2459b67/image.png)](http://www.credly.com/badges/f1e847ed-31bc-4ecc-8c3e-13b94aa0875c "Microsoft Community Rockstar - 2024")
@@ -31,8 +31,7 @@ Cheers! :)
 [![SIEM Influencer - 2024](https://images.credly.com/size/150x150/images/3250c29b-2d23-46af-86cd-2ffa12d3afad/image.png)](http://www.credly.com/badges/3f725b00-0ed8-42b6-882c-f130d485daba "SIEM Influencer - 2024")
 [![Microsoft Defender for Cloud Champion - 2024](https://images.credly.com/size/150x150/images/ad679bba-a220-4cfb-8ceb-1cb571b6c1e1/image.png)](http://www.credly.com/badges/b16f077f-b5ce-4989-9c73-f474fdbce70d "Microsoft Defender for Cloud Champion - 2024")
 [![Microsoft SIEM Champion - 2024](https://images.credly.com/size/150x150/images/9de0181b-fcef-4e3a-b961-4a71fc3c7d0a/image.png)](http://www.credly.com/badges/598fa02a-53d5-42ec-9469-0193fba2b10c "Microsoft SIEM Champion - 2024")
-<!--END_SECTION:badges-->
-
+<!--END_BADGES:badges-->
 
 You can take a look at all of my Credly Badges  [here](https://www.credly.com/users/denis-bogunic/badges)
 
