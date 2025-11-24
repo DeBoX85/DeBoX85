@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: DeBoX85/DeBoX85@main
+        uses: DeBoX85/badge-readme@main
         with:
           COMMIT_MESSAGE: "My commit message to update badges"
           CREDLY_SORT: RECENT
