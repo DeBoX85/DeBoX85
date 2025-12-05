@@ -48,7 +48,7 @@ Cheers! :)
 You can take a look at all of my Credly Badges  [here](https://www.credly.com/users/denis-bogunic/badges)
 
 ## Want to reach out or follow me?
-Feel free hit me up on my socials!
+Feel free to hit me up on my socials!
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bogunic/)
 </br>
