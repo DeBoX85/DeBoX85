@@ -1,6 +1,6 @@
 # Hey there! I'm Denis
 
-So, cloud engineering is my jam, especially when it involves Azure. I've been in the cloud game for over a decade, working on Azure Cloud Ops,Finops and related topics. Around here, you might find some of my projects and ideas on how to keep cloud systems at their best. My GitHub is my little playground, it's where I share some of my ops related tools, scripts and side-projects, so feel free to poke around and let me know if anything piques your interest. I'm always down for a quick tech talk, a brainstorm or a wee bit of banter!
+So, cloud engineering is my jam, especially when it involves Azure. I've been in the cloud game for over a decade, working on Azure Cloud Ops, Finops and related topics. Around here, you might find some of my projects and ideas on how to keep cloud systems at their best. My GitHub is my little playground, it's where I share some of my ops related tools, scripts and side-projects, so feel free to poke around and let me know if anything piques your interest. I'm always down for a quick tech talk, a brainstorm or a wee bit of banter!
 
 Cheers! :)
 
